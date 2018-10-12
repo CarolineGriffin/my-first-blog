@@ -1,0 +1,14 @@
+h1 a {
+  color: #0dce00;
+  font-family: Sanchez;
+  text-size: 50px;
+  text-shadow: #FC0 1px 0 10px;
+}
+h2 a {
+  color:  #0dce00;
+  font-family: Sanchez;
+  text-size: 25px;
+}
+body {
+  padding-left: 15px;
+}
